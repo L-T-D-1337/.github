@@ -106,3 +106,14 @@
 > 1. **Struktur:** Jedes Projekt erhält die 7 Standard-Ordner ( 1_app-web/ bis  7_demos-media/), ein SVG-Banner (randing-hero.svg), eine interaktive Demo (deployment-demo.html), eine FILE_INDEX.tsv und eine README.md im DkZ Design System v2 (#060608 / #fa1e4e / #00ff88).
 > 2. **Staging & Upload:** Direkter Push als eigenes Repo unter $orgName (oder bei Browser-LLMs ohne Org-Token als sauberer Ordner in 7IKED/DEVKI7 Branch deploy/L-T-D-1337-addendum-YYYYMMDD per Git-Blob-Referenz).
 > 3. **Pflicht-Eintrag auf dieser Startseite:** Nach jedem neuen Projekt oder Release MUSS dieses Dokument ($orgName/.github ➔ profile/README.md) oben in den **Projekt-Boards** und hier direkt über diesem Block im **Live Release- & Update-Blog** aktualisiert werden!
+
+### 🚀 `2026-10-24` — Release `v2.2.0`: Live Steam CS2 CFG Suite, FACEIT/TGF Tuning Pack & CS2 Konversations-Archiv
+- **Neu veröffentlicht:** [`LEETED-CS2-Live-Steam-CFG-Suite`](https://github.com/L-T-D-1337/LEETED-CS2-Live-Steam-CFG-Suite) (653 Live-Dateien direkt aus `steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg` + `cs2_config_agent`), [`LEETED-CS2-FACEIT-TGF-Collection`](https://github.com/L-T-D-1337/LEETED-CS2-FACEIT-TGF-Collection) (672 Dateien inkl. FACEIT-Profilen, TGF Tuning Pack, JARVIS CS2, MouseMovementRecorder & Netcode2-Reports) sowie [`LEETED-Conversations-And-Research-Archive`](https://github.com/L-T-D-1337/LEETED-Conversations-And-Research-Archive).
+
+### 🎮 Neu verankerte Live-Steam-CFGs, FACEIT/TGF-Pakete & Gaming-Konversationen (`v2.2.0`)
+
+| Repository | Inhalt & Umfang | Konversationen | Release |
+| :--- | :--- | :--- | :--- |
+| [**`LEETED-CS2-Live-Steam-CFG-Suite`**](https://github.com/L-T-D-1337/LEETED-CS2-Live-Steam-CFG-Suite) | Kompletter aktiver Steam `csgo/cfg` Bestand (`autoexec.cfg`, `dkz_radar.cfg`, `movement`, `practice_mode`, `crosshair`, `csafap`, `addons`) — **653 Dateien (13,29 MB)** | `4 CS2-Agent Konversationen` | [`v2.2.0`](https://github.com/L-T-D-1337/LEETED-CS2-Live-Steam-CFG-Suite/releases/tag/v2.2.0) |
+| [**`LEETED-CS2-FACEIT-TGF-Collection`**](https://github.com/L-T-D-1337/LEETED-CS2-FACEIT-TGF-Collection) | `10_CS2_FACEIT` (`CFG`, `Demo-Analysis`, `Launch-Options`, `Profiles`), `12_TGF_TUNING_PACK`, `JARVIS_CS2_Archive`, `MouseMovementRecorder` & `NETCODE2_Reports` — **672 Dateien (38,76 MB)** | `Complete Suite` | [`v2.2.0`](https://github.com/L-T-D-1337/LEETED-CS2-FACEIT-TGF-Collection/releases/tag/v2.2.0) |
+| [**`LEETED-Conversations-And-Research-Archive`**](https://github.com/L-T-D-1337/LEETED-Conversations-And-Research-Archive) | Alle CS2-, Autoexec-, Al9oha-, Netcode-, GPU- & Latenz-Konversationen inkl. `walkthrough.md`, Skripten & Protokollen — **23 Dateien** | `9 Gaming-Konversationen` | [`v2.2.0`](https://github.com/L-T-D-1337/LEETED-Conversations-And-Research-Archive/releases/tag/v2.2.0) |
