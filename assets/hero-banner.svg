@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#060608"/>
+      <stop offset="60%" stop-color="#0d0d12"/>
+      <stop offset="100%" stop-color="#15080d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fa1e4e"/>
+      <stop offset="100%" stop-color="#00ff88"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="16" fill="url(#bg)" stroke="#fa1e4e" stroke-width="2"/>
+  <rect x="0" y="274" width="1200" height="6" fill="url(#accent)"/>
+  <circle cx="1100" cy="60" r="140" fill="#fa1e4e" opacity="0.07"/>
+  <circle cx="980" cy="220" r="110" fill="#00ff88" opacity="0.05"/>
+  <text x="54" y="68" fill="#fa1e4e" font-family="JetBrains Mono, Consolas, monospace" font-size="16" font-weight="700" letter-spacing="3">DKZ DESIGN SYSTEM V2 // OFFICIAL ORGANIZATION HUB</text>
+  <text x="54" y="138" fill="#ffffff" font-family="Inter, Segoe UI, sans-serif" font-size="48" font-weight="800">L E E T E D  [ 1 3 3 7 ]</text>
+  <text x="54" y="182" fill="#a0a0b8" font-family="Inter, Segoe UI, sans-serif" font-size="20">Counter-Strike 2 · Pro Gaming Performance · Netcode · CFG Studio · Hardware Lab</text>
+  <rect x="54" y="210" width="210" height="36" rx="8" fill="#0d0d12" stroke="#00ff88" stroke-width="1.5"/>
+  <circle cx="76" cy="228" r="6" fill="#00ff88"/>
+  <text x="92" y="233" fill="#00ff88" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700">STATUS: ONLINE</text>
+  <rect x="280" y="210" width="320" height="36" rx="8" fill="#0d0d12" stroke="#fa1e4e" stroke-width="1.5"/>
+  <text x="300" y="233" fill="#fa1e4e" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700">57 REPOSITORIES ACTIVE</text>
+</svg>
